@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Mohamed Wagih
-- 💻 I'm currently working as a Frontend Engineer.
+- 💻 I'm currently working as a Software Engineer.
 - 🌱 I am currently focusing on learning DSA.
+- ✍ I Love Calligraphy.
 <!--
 - 💁‍♂️ I also worked as .Net Fullstack developer
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
