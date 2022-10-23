@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👋 I am Mohamed Wagih
 - 💻 Currently working as a Software Engineer.
-- 🌱 I am currently focusing on learning DSA.
+- 🌱 Enjoy Leetcoding.
 - ✍ I Love Calligraphy.
 <!--
 - 💁‍♂️ I also worked as .Net Fullstack developer
