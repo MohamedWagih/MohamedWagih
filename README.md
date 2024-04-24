@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 💻 Currently working as a Software Engineer.
 - 🌱 Enjoy Leetcoding.
 - ✍ Love Calligraphy.
+- ⛩️ Enjoy watching Anime.
 <!--
 - 💁‍♂️ I also worked as .Net Fullstack developer
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
